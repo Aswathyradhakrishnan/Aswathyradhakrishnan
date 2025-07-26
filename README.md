@@ -1,16 +1,57 @@
+# 👋 Hi, I'm Aswathy Radhakrishnan
 
-<h1 align="center">Hi 👋, I'm Aswathy Radhakrishnan</h1>
-<h3 align="center">A passionate frontend developer, and fashion enthusiast from India</h3>
+🎯 Applied AI | GenAI | R&D | NLP | GIS | Multimodal AI  
+👩‍💻 Data Scientist (R&D-focused) working on cutting-edge LLM, CV, and spatial intelligence use cases.
 
-- 🌱 I’m currently learning **Vue.js**
+---
 
-- 📫 How to reach me **aswathyrkrishnan14@gmail.com**
+## 🧠 What I Do
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🔬 I build and prototype intelligent systems that combine traditional ML, deep learning, and LLM-based approaches to solve real-world problems.  
+🧪 Most of my work is PoC-driven, combining research and engineering to validate emerging ideas and explore feasibility.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 Projects (Selected Highlights)
 
+- **📄 GenAI for Document Intelligence**  
+  Extract handwritten text and sketches from GIS-related documents using Azure OpenAI (GPT-4), Florence, and Azure Document Intelligence.
+
+- **🌍 SpatialLM & MASt3R-SLAM**  
+  Prototyped 2D-to-3D spatial understanding and SLAM from video inputs for GIS applications using SpatialLM and MASt3R-SLAM.
+
+- **📡 Pole Detection (Multimodal)**  
+  Combined Florence, YOLOWorld, and EasyOCR to detect and classify poles (assets) from urban scenes using both GenAI and classical CV methods.
+
+- **🛰 ESRI Deep Learning Models**  
+  Implemented corridor mapping and aerial data-based DL pipelines using ESRI's GIS tools.
+
+- **📉 Customer Churn Prediction + GenAI Explainability**  
+  Built ML models for churn prediction and enhanced post-hoc explanations using GenAI agents.
+
+- **🤖 Multi-Agent Research Platform**  
+  Built a CrewAI-based multi-agent system to conduct web-scale competitive research and insight generation.
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, SQL, Markdown  
+- **AI/ML**: PyTorch, scikit-learn, XGBoost, HuggingFace Transformers, spaCy  
+- **LLMs**: GPT-4 (Azure), Florence, YOLOWorld, Open-source LLMs  
+- **GenAI Tooling**: LangChain, LlamaIndex, CrewAI, Azure OpenAI  
+- **CV/NLP**: OpenCV, EasyOCR, Tesseract, Florence, Detectron2  
+- **GIS/Spatial**: ESRI models, SpatialLM, MASt3R-SLAM, Folium, GeoPandas  
+- **Visualization**: Matplotlib, Seaborn, Plotly  
+- **Deployment**: Streamlit, Gradio, Azure, WSL2
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/aswathyr/](https://www.notion.so/Aswathy-Radhakrishnan-LinkedIn-23b45e9866528022baeae1187ce0d744?source=copy_link)
+- 📨 Reach me via email or GitHub discussions.
+
+---
+
+🌱 Always exploring the intersection of **AI, spatial data, and intelligent systems.**  
